@@ -1,0 +1,7 @@
+#vendored packages and lockfiles
+node_modules/
+yarn.lock
+package.lock
+
+#Secrets config
+config.json
